@@ -54,7 +54,7 @@ h4 {
 blockquote {
 	margin: 30px 0 15px 0;
 	background-color: #333;
-	background-image: url(assets/images/blockquote.svg);
+	background-image: url(images/blockquote.svg);
 	background-position: 20px 20px;
 	background-size: 38px 32px;
 	background-repeat: no-repeat;
@@ -170,7 +170,8 @@ details p {
 	padding-right: 40px;
 	font-size: 80%;
 	white-space: nowrap;
-	}
+	
+}
 #meta a:hover,
 #meta a:focus,
 #meta a:active,
@@ -231,7 +232,7 @@ main {
 	margin-left: 20px;
 }
 #bottom li {
-	background-image: url(assets/images/h3.png);
+	background-image: url(images/h3.png);
 	background-position: left 50%;
 	background-repeat: no-repeat;
 	padding-left: 25px;
@@ -311,7 +312,7 @@ img {
 	text-decoration: none;
 	border-radius: 10px;
 	font-size: 110%;
-	background-image: url(assets/images/download.svg);
+	background-image: url(images/download.svg);
 	background-position: 10px 50%;
 	background-repeat: no-repeat;
 	background-size: 40px 40px;
